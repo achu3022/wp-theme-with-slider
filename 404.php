@@ -9,7 +9,7 @@
  * @link https://codex.wordpress.org/Creating_an_Error_404_Page
  *
  * @package Astra
- * @since 2.0.0
+ * @since 2.5.0
  */
 
 

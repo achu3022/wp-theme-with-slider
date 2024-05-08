@@ -26,9 +26,9 @@ Template Name: Service Page
         <!-- list item -->
         <div class="list">
             <div class="item">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/services/embedded.jpg">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/services/embedded_auto.jpg">
                 <div class="content">
-                    <div class="author">SMEClabs</div>
+                    <div class="author">SMEC</div>
                     <div class="topic">EMBEDDED</div>
                     <div class="title">AUTOMATION</div>
                     <div class="des">
@@ -42,9 +42,9 @@ Template Name: Service Page
                 </div>
             </div>
             <div class="item">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/services/industrial.jpg">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/services/industrial_auto.jpg">
                 <div class="content">
-                    <div class="author">SMEClabs</div>
+                    <div class="author">SMEC</div>
                     <div class="topic">INDUSTRIAL</div>
                     <div class="title">AUTOMATION</div>
                     <div class="des">
@@ -56,9 +56,9 @@ Template Name: Service Page
                 </div>
             </div>
             <div class="item">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/services/marine.jpg">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/services/marine_auto.jpg">
                 <div class="content">
-                    <div class="author">SMEClabs</div>
+                    <div class="author">SMEC</div>
                     <div class="topic">MARINE</div>
                     <div class="title">AUTOMATION</div>
                     <div class="des">
@@ -70,9 +70,9 @@ Template Name: Service Page
                 </div>
             </div>
             <div class="item">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/services/process.jpeg">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/services/process_auto.jpg">
                 <div class="content">
-                    <div class="author">SMEClabs</div>
+                    <div class="author">SMEC</div>
                     <div class="topic">PROCESS</div>
                     <div class="title">AUTOMATION</div>
                     <div class="des">
@@ -87,7 +87,7 @@ Template Name: Service Page
         <!-- list thumnail -->
         <div class="thumbnail">
             <div class="item">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/services/embedded.jpg">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/services/embedded_auto.jpg">
                 <div class="content">
                     <div class="title">
                         Embedded
@@ -98,7 +98,7 @@ Template Name: Service Page
                 </div>
             </div>
             <div class="item">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/services/industrial.jpg">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/services/industrial_auto.jpg">
                 <div class="content">
                     <div class="title">
                         Industrial                    
@@ -109,7 +109,7 @@ Template Name: Service Page
                 </div>
             </div>
             <div class="item">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/services/marine.jpg">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/services/marine_auto.jpg">
                 <div class="content">
                     <div class="title">
                         Marine
@@ -120,7 +120,7 @@ Template Name: Service Page
                 </div>
             </div>
             <div class="item">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/services/process.jpeg">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/services/process_auto.jpg">
                 <div class="content">
                     <div class="title">
                         Process
